@@ -24,3 +24,6 @@ The project aims to develop a dashboard for Petshop Gatito, a fictional company,
 The project employs Power BI for data importation, analysis, and visualization, providing a comprehensive solution that enables Gatito, the fictional company, to make informed decisions for growth and success.
 
 [**Click to access the dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYWFmNjliNzItZDY3MS00NDcyLWIwNTMtZTRhYTViZTQyMTkxIiwidCI6ImY1MWY1ZjJlLWRjZjMtNDJjZS1hYmI2LTM1MWFiNTM0ODQyOCIsImMiOjl9)
+
+![Dashboard Preview]([https://github.com/logos/github-logo.png](https://github.com/ricardonunes-la/power-bi-dashboard-portfolio/blob/main/dashboard-images/Gatitos%20Pet%20Shop.png)https://github.com/ricardonunes-la/power-bi-dashboard-portfolio/blob/main/dashboard-images/Gatitos%20Pet%20Shop.png)
+
