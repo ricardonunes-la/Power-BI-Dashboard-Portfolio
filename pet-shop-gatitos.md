@@ -25,5 +25,6 @@ The project employs Power BI for data importation, analysis, and visualization, 
 
 [**Click to access the dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYWFmNjliNzItZDY3MS00NDcyLWIwNTMtZTRhYTViZTQyMTkxIiwidCI6ImY1MWY1ZjJlLWRjZjMtNDJjZS1hYmI2LTM1MWFiNTM0ODQyOCIsImMiOjl9)
 
-![Dashboard Preview]([https://github.com/logos/github-logo.png](https://github.com/ricardonunes-la/power-bi-dashboard-portfolio/blob/main/dashboard-images/Gatitos%20Pet%20Shop.png)https://github.com/ricardonunes-la/power-bi-dashboard-portfolio/blob/main/dashboard-images/Gatitos%20Pet%20Shop.png)
+![Dashboard Preview](https://github.com/ricardonunes-la/power-bi-dashboard-portfolio/blob/main/dashboard-images/Gatitos%20Pet%20Shop.png)
+
 
