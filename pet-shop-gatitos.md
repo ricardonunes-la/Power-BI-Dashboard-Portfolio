@@ -1,6 +1,6 @@
 **Gatitos Pet Shop Overview**
 
-The project aims to develop a dashboard for Petshop Gatito, a fictional company, addressing its specific needs. The main focus is to understand and visualize the business's revenue over the years, analyzing growth and identifying adjustment opportunities.
+This project is part of the training obtained at [Alura](https://www.alura.com.br/). The main objective is to develop a dashboard for Petshop Gatito, a fictional company, addressing its specific needs. The primary focus is to comprehend and visualize the business's revenue over the years, analyze growth trends, and identify opportunities for adjustments.
 
 **Key Requirements:**
 
